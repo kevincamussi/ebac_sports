@@ -4,7 +4,6 @@ import * as S from './styles'
 import { adicionarAoCarrinho } from '../../store/reducers/carrinho'
 import { adicionarAoFavoritos } from '../../store/reducers/favoritos'
 
-import { RootReducer } from '../../store'
 import { useState } from 'react'
 
 type Props = {
